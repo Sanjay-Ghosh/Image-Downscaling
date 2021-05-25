@@ -1,7 +1,7 @@
 # Result of video downscaling
 =============
 
-Author: Dr. Sanjay Ghosh, UCSF
+Author: Dr. Sanjay Ghosh, UCSF.
         Email: sanjay.ghosh@ucsf.edu
 
 =============
