@@ -1,13 +1,13 @@
 # Result of video downscaling
 =============
 
-Author: Dr. Sanjay Ghosh, UCSF.
-        Email: sanjay.ghosh@ucsf.edu
+Authors: Dr. Sanjay Ghosh, UCSF.         Email: sanjay.ghosh@ucsf.edu
+         Dr. Arpan Garai, IIT Delhi      Email: arpangarai@gmail.com 
 
 =============
 Paper
 -----
-Nonlocal Co-occurrence for Image Downscaling
+S. Ghosh and A. Garai, "Nonlocal Co-occurrence for Image Downscaling," Journal of Visual Communication and Image Representation, 2023. 
 
 arXiv: https://arxiv.org/abs/2012.11858
 
