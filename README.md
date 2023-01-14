@@ -2,7 +2,7 @@
 =============
 
 Authors: Dr. Sanjay Ghosh, UCSF.         Email: sanjay.ghosh@ucsf.edu                 
-         Dr. Arpan Garai, IIT Delhi      Email: arpangarai@gmail.com 
+         Dr. Arpan Garai, IIT Delhi.      Email: arpangarai@gmail.com 
 
 =============
 Paper
